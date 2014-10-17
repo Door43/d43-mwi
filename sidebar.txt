@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mwi:home|Door43 (mwi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mwi|d43-mwi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mwi/archive/master.zip|d43-mwi.zip]]
+
+**Recent Changes**
+{{changes>ns = mwi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mwi|Ethnologue data]]
+
